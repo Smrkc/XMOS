@@ -1,0 +1,4 @@
+type;questionText;possibleAnswer;required
+radioButton;Are you be willing to attend the recording process again?;"(1, ""yes""), (2, ""no"")";1
+scale;Is the system setup user friendly?;None;1
+textInput;Please express if something has irritated you.;None;0
